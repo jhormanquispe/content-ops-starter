@@ -225,10 +225,6 @@ sections:
         iconPosition: right
         style: primary
         type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
