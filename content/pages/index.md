@@ -93,7 +93,7 @@ sections:
       sociales
     actions:
       - label: PAGINA DE FACEBOOK
-        url: /
+        url: '/https://www.facebook.com/jhormi.quispe'
         icon: arrowRight
         iconPosition: right
         style: secondary
