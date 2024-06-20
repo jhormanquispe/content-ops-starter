@@ -9,21 +9,18 @@ sections:
       type: TitleBlock
     subtitle: Soy Jhorman Ayovi Q.
     text: >+
-      **Síntesis:**
+      **Soy un apasionado por la tecnología y la fotografía, combinando mis
+      habilidades como Ingeniero de Sistemas y con mi pasión por capturar
+      momentos únicos.** 
 
 
-      Soy un apasionado por la tecnología y la fotografía, combinando mis
-      habilidades como Ingeniero de sistemas y con mi pasión por capturar
-      momentos únicos. 
+      **Destaco en resolver problemas complejos y desarrollar soluciones
+      innovadoras en el mundo digital**
 
 
-      Destaco en resolver problemas complejos y desarrollar soluciones
-      innovadoras en el [mundo digital](). 
-
-
-      Como [fotógrafo independiente](), encuentro inspiración en cada detalle,
+      **Como fotógrafo independiente, encuentro inspiración en cada detalle,
       capturando la esencia de cada momento y creando imágenes impactantes y
-      memorables.
+      memorables.**
 
 
 
