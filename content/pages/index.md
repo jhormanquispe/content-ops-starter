@@ -264,7 +264,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: Facebook
+            altText: Facebook
+            url: '/https://www.facebook.com/jhormi.quispe'
+            showIcon: true
+            icon: facebook
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
