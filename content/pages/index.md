@@ -89,8 +89,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Para conocer mas sobre mi trabajo puedes visitar mis distintas redes
+      sociales
     actions:
       - label: Get started
         url: /
