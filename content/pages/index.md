@@ -179,7 +179,7 @@ sections:
       - url: /images/images (2).png
         altText: desarollador en el corlad ayacucho
         type: ImageBlock
-      - url: /images/FIRMA.jfif
+      - url: /images/FIRMA-_1_.jfif
         altText: Sanity logo
         type: ImageBlock
     motion: move-to-left
