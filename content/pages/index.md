@@ -683,11 +683,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **Si deseas agendar una cita conmigo no dudes en contactarte conmigo.**
+
+
+      **Con todo el gusto me pondré en contacto en la brevedad posible, a fin de
+      resolver tus dudas o interrogantes**
+
+
+      **recuerda que puedo ayudarte en temas como la gestión, procesos y mundo
+      audiovisual.**
+
+
+      **Así que no dudes que en mi tienes un amigo mas**
     media:
       fields:
         - name: name
