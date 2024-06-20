@@ -8,7 +8,25 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Soy Jhorman Ayovi Q.
-    text: "Soy un\_apasionado por la tecnología y la\_[fotografía](), combinando mis habilidades como\_[ingeniero de sistemas]()\_y mi pasión por capturar momentos únicos a través de mi lente. Con una mente analítica y creativa, he logrado destacar en dos campos aparentemente distintos pero complementarios.\n\nComo\_[ingeniero de sistemas](), demuestro mi destreza resolviendo problemas complejos y desarrollando soluciones innovadoras en el mundo digital. \n\nM formación académica y experiencia práctica me han permitido destacarme en el diseño y la implementación de sistemas informáticos eficientes y funcionales.\n\nPor otro lado, como fotógrafo independiente, encuentro inspiración en cada detalle que me rodea. A través de mi cámara, logro capturar la esencia de cada momento, transmitiendo emociones y contando historias a través de mis fotografías. \n\nMi ojo artístico y mi habilidad para jugar con la luz y la composición me han llevado a crear imágenes impactantes y memorables.\n\n\n\n"
+    text: >+
+      **Síntesis:**
+
+
+      Soy un apasionado por la tecnología y la fotografía, combinando mis
+      habilidades como Ingeniero de sistemas y con mi pasión por capturar
+      momentos únicos. 
+
+
+      Destaco en resolver problemas complejos y desarrollar soluciones
+      innovadoras en el [mundo digital](). 
+
+
+      Como [fotógrafo independiente](), encuentro inspiración en cada detalle,
+      capturando la esencia de cada momento y creando imágenes impactantes y
+      memorables.
+
+
+
     actions: []
     media:
       url: /images/34794259_1734130880007367_1383907963931983872_n.jpg
