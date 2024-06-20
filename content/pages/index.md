@@ -251,10 +251,8 @@ sections:
       - title: ''
         tagline: ''
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          .
         image:
           url: /images/5D8s-GsHJlJ.png
           altText: Maria Walters
