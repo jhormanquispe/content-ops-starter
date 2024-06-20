@@ -173,7 +173,7 @@ sections:
       - url: /images/images (1).jfif
         altText: MUNICIPALIDAD PROVINCIAL DE HUANCAYO
         type: ImageBlock
-      - url: /images/logo dimen (1).png
+      - url: /images/logo-dimen-_1_.jfif
         altText: DESARROLLADOR PARA AYA.COM
         type: ImageBlock
       - url: /images/images (2).png
