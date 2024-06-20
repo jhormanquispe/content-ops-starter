@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/icon2.svg",
-        "altText": "",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
