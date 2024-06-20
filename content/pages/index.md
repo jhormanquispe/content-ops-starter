@@ -173,6 +173,9 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
+      - url: /images/logo-circle.png
+        altText: MINISTERIO DE CULTURA
+        type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
@@ -181,9 +184,6 @@ sections:
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
-        type: ImageBlock
-      - url: /images/logo-circle.png
-        altText: MINISTERIO DE CULTURA
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
