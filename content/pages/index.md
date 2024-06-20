@@ -170,7 +170,7 @@ sections:
       - url: /images/logo-circle.png
         altText: MINISTERIO DE CULTURA
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/images (1).jfif
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
