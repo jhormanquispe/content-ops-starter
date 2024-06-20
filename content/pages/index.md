@@ -167,7 +167,7 @@ sections:
       - url: /images/images.jfif
         altText: MUNICIPALIDAD DISTRITAL DE SAN JUAN BAUTISTA
         type: ImageBlock
-      - url: /images/logo-circle.png
+      - url: /images/100 Cultura.jpg
         altText: MINISTERIO DE CULTURA
         type: ImageBlock
       - url: /images/images (1).jfif
