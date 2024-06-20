@@ -176,7 +176,7 @@ sections:
       - url: /images/logo dimen (1).png
         altText: DESARROLLADOR PARA AYA.COM
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/images (2).png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
