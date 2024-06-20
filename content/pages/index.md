@@ -250,7 +250,7 @@ sections:
     items:
       - title: ''
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: |
           .
         image:
