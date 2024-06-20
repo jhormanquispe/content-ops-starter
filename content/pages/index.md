@@ -171,7 +171,7 @@ sections:
         altText: MINISTERIO DE CULTURA
         type: ImageBlock
       - url: /images/images (1).jfif
-        altText: Wellster logo
+        altText: MUNICIPALIDAD PROVINCIAL DE HUANCAYO
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
