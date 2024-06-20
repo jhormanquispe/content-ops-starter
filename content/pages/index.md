@@ -174,7 +174,7 @@ sections:
         altText: MUNICIPALIDAD PROVINCIAL DE HUANCAYO
         type: ImageBlock
       - url: /images/logo plain blue.png
-        altText: Vise logo
+        altText: DESARROLLADOR PARA AYA.COM
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
