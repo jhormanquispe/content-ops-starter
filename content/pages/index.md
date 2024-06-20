@@ -177,7 +177,7 @@ sections:
         altText: DESARROLLADOR PARA AYA.COM
         type: ImageBlock
       - url: /images/images (2).png
-        altText: Telus logo
+        altText: desarollador en el corlad ayacucho
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
