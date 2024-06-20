@@ -114,6 +114,14 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title: Divider
     colors: bg-light-fg-dark
     styles:
