@@ -92,7 +92,7 @@ sections:
       Para conocer mas sobre mi trabajo puedes visitar mis distintas redes
       sociales
     actions:
-      - label: Get started
+      - label: PAGINA DE FACEBOOK
         url: /
         icon: arrowRight
         iconPosition: right
