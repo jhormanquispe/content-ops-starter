@@ -679,7 +679,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Estoy aquí para atenderte
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
