@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 'EXPERIENCIA EN INSTITUCIONES COMO:'
     images:
       - url: /images/images.jfif
         altText: MUNICIPALIDAD DISTRITAL DE SAN JUAN BAUTISTA
