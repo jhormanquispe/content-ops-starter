@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Hola, soy jhorman Ayovi Quispe Acuña'
+      text: 'Hola, me presento'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
