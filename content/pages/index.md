@@ -84,7 +84,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: visita mis redes sociales
+      text: VISITA MIS REDES SOCIALES
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
