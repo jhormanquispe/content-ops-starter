@@ -173,7 +173,7 @@ sections:
       - url: /images/images (1).jfif
         altText: MUNICIPALIDAD PROVINCIAL DE HUANCAYO
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/logo plain blue.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
