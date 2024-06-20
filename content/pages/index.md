@@ -183,7 +183,7 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - url: /images/logo-circle.png
-        altText: Rangle logo
+        altText: MINISTERIO DE CULTURA
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
