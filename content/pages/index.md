@@ -165,7 +165,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/images.jfif
-        altText: Empathy logo
+        altText: MUNICIPALIDAD DISTRITAL DE SAN JUAN BAUTISTA
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
