@@ -170,11 +170,11 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/logo-circle.png
         altText: MINISTERIO DE CULTURA
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
