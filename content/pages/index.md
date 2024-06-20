@@ -179,7 +179,7 @@ sections:
       - url: /images/images (2).png
         altText: desarollador en el corlad ayacucho
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/FIRMA (1).png
         altText: Sanity logo
         type: ImageBlock
     motion: move-to-left
